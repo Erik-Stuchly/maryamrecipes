@@ -21,3 +21,6 @@ potato: 1 small
 salt and pepper: a little bit
 
 Put them in the pot and cook them enjoy!
+
+Here we want to check with new branch called "feature".
+No recipe yet:)
