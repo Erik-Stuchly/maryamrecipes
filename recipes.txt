@@ -1,0 +1,15 @@
+This is a list of all my favorite recipes.
+Nice, I am trying to edit my file via the command line.
+MTM's almond cake:
+Almond flour: 250 gram
+lemon zest: one lemon
+egg: 3 
+Mix them properly, bake for 30 mins at 180 degrees and enjoy!
+
+MTM's soup:
+chicken: 100 gram
+carrot: 1 small
+potato: 1 small
+salt and pepper: a little bit
+
+Put them in the pot and cook them enjoy!
