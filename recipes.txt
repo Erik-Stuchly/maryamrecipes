@@ -24,3 +24,9 @@ Put them in the pot and cook them enjoy!
 
 Here we want to check with new branch called "feature".
 No recipe yet:)
+
+Recipe from Erik:
+Ingredients - pasta, pesto
+Steps: 
+1 - cook pasta for 10 minutes
+2 - drain and mix with pesto
